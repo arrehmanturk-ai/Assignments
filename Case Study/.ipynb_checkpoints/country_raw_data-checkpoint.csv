@@ -1,0 +1,251 @@
+name,region,population,area_sqkm,is_un_member
+Syria,Asia,25620000,185180.0,True
+New Zealand,Oceania,5324700,268838.0,True
+Brunei,Asia,455500,5765.0,True
+British Indian Ocean Territory,Africa,0,60.0,False
+Kenya,Africa,53330978,580367.0,True
+Palau,Oceania,16733,459.0,True
+Oman,Asia,5343630,309500.0,True
+Mexico,Americas,130575786,1964375.0,True
+Palestine,Asia,5483450,6220.0,False
+Turks and Caicos Islands,Americas,50828,948.0,False
+Central African Republic,Africa,6470307,622984.0,True
+Saint Kitts and Nevis,Americas,51320,261.0,True
+South Sudan,Africa,15786898,619745.0,True
+Ukraine,Europe,32862000,603550.0,True
+Saint Barthélemy,Americas,10562,21.0,False
+Netherlands,Europe,18100436,41865.0,True
+Tanzania,Africa,68153004,947303.0,True
+Czechia,Europe,10882341,78865.0,True
+Belarus,Europe,9109280,207600.0,True
+Yemen,Asia,32684503,527968.0,True
+Slovenia,Europe,2130638,20273.0,True
+Tokelau,Oceania,2608,12.0,False
+Nigeria,Africa,223800000,923768.0,True
+Réunion,Africa,896175,2511.0,False
+Guadeloupe,Americas,378561,1628.0,False
+Hungary,Europe,9539502,93028.0,True
+Heard Island and McDonald Islands,Antarctic,0,412.0,False
+Eswatini,Africa,1235549,17364.0,True
+Comoros,Africa,919901,1862.0,True
+India,Asia,1417492000,3287263.0,True
+Cocos (Keeling) Islands,Oceania,593,14.0,False
+United Kingdom,Europe,69281437,244376.0,True
+Angola,Africa,36170961,1246700.0,True
+Macau,Asia,685900,30.0,False
+Costa Rica,Americas,5309625,51100.0,True
+Niue,Oceania,1681,260.0,False
+Cook Islands,Oceania,15040,236.0,False
+Djibouti,Africa,1066809,23200.0,True
+Saint Pierre and Miquelon,Americas,5819,242.0,False
+Austria,Europe,9200931,83871.0,True
+Indonesia,Asia,284438782,1904569.0,True
+Nauru,Oceania,11680,21.0,True
+Kazakhstan,Asia,20426568,2724900.0,True
+Malawi,Africa,20734262,118484.0,True
+Eritrea,Africa,3607000,117600.0,True
+Tunisia,Africa,11972169,163610.0,True
+Pitcairn Islands,Oceania,35,47.0,False
+Saudi Arabia,Asia,35300280,2149690.0,True
+Turkmenistan,Asia,7057841,488100.0,True
+Western Sahara,Africa,600904,266000.0,False
+Ghana,Africa,33742380,238533.0,True
+Tuvalu,Oceania,10643,26.0,True
+Myanmar,Asia,51316756,676578.0,True
+Gabon,Africa,2469296,267668.0,True
+Cuba,Americas,9748007,109884.0,True
+China,Asia,1408280000,9706961.0,True
+Panama,Americas,4064780,75417.0,True
+Thailand,Asia,65859640,513120.0,True
+Russia,Europe,146028325,17098246.0,True
+Bosnia and Herzegovina,Europe,3422000,51209.0,True
+Qatar,Asia,3173024,11586.0,True
+Bouvet Island,Antarctic,0,49.0,False
+Iraq,Asia,46118793,438317.0,True
+Tajikistan,Asia,10499000,143100.0,True
+Guyana,Americas,772975,214969.0,True
+Solomon Islands,Oceania,750325,28896.0,True
+Slovakia,Europe,5413813,49037.0,True
+Gibraltar,Europe,38000,6.0,False
+Peru,Americas,34350244,1285216.0,True
+Puerto Rico,Americas,3203295,8870.0,False
+Armenia,Asia,3076200,29743.0,True
+Azerbaijan,Asia,10241722,86600.0,True
+Mauritania,Africa,4927532,1030700.0,True
+Belize,Americas,417634,22966.0,True
+Anguilla,Americas,16010,91.0,False
+Seychelles,Africa,122729,452.0,True
+Norfolk Island,Oceania,2188,36.0,False
+Philippines,Asia,114123600,342353.0,True
+Argentina,Americas,46735004,2780400.0,True
+Moldova,Europe,2749076,33847.0,True
+Samoa,Oceania,205557,2842.0,True
+Antarctica,Antarctic,1300,14000000.0,False
+Sierra Leone,Africa,9077691,71740.0,True
+Cambodia,Asia,17577760,181035.0,True
+Vanuatu,Oceania,321409,12189.0,True
+Jordan,Asia,11734000,89342.0,True
+Martinique,Americas,349925,1128.0,False
+Tonga,Oceania,100179,747.0,True
+British Virgin Islands,Americas,39471,151.0,False
+Timor-Leste,Asia,1391221,14874.0,True
+French Polynesia,Oceania,279500,4167.0,False
+Turkey,Asia,85664944,783562.0,True
+Guernsey,Europe,64781,78.0,False
+Senegal,Africa,18593258,196722.0,True
+Guatemala,Americas,18079810,108889.0,True
+Poland,Europe,37392000,312679.0,True
+Bahamas,Americas,398165,13943.0,True
+Faroe Islands,Europe,54885,1393.0,False
+Aruba,Americas,107566,180.0,False
+Dominican Republic,Americas,10771504,48671.0,True
+Hong Kong,Asia,7527500,1104.0,False
+São Tomé and Príncipe,Africa,209607,964.0,True
+Uruguay,Americas,3499451,181034.0,True
+Bermuda,Americas,64055,54.0,False
+Wallis and Futuna,Oceania,11620,142.0,False
+South Africa,Africa,63100945,1221037.0,True
+Israel,Asia,10134800,21937.0,True
+San Marino,Europe,34132,61.0,True
+El Salvador,Americas,6029976,21041.0,True
+Mongolia,Asia,3544835,1564110.0,True
+American Samoa,Oceania,49710,199.0,False
+French Southern and Antarctic Lands,Antarctic,400,7747.0,False
+Zimbabwe,Africa,17073087,390757.0,True
+Falkland Islands,Americas,3662,12173.0,False
+Croatia,Europe,3866233,56594.0,True
+Kiribati,Oceania,120740,811.0,True
+Marshall Islands,Oceania,42418,181.0,True
+Norway,Europe,5606944,386224.0,True
+Mali,Africa,22395489,1240192.0,True
+Zambia,Africa,19693423,752612.0,True
+Maldives,Asia,515132,300.0,True
+Antigua and Barbuda,Americas,103603,442.0,True
+Christmas Island,Oceania,1692,135.0,False
+Iran,Asia,85961000,1648195.0,True
+Italy,Europe,58927633,301336.0,True
+Gambia,Africa,2422712,10689.0,True
+South Korea,Asia,51159889,100210.0,True
+Papua New Guinea,Oceania,11781559,462840.0,True
+Egypt,Africa,107271260,1002450.0,True
+Isle of Man,Europe,84530,572.0,False
+Latvia,Europe,1829000,64559.0,True
+Paraguay,Americas,6109644,406752.0,True
+Grenada,Americas,109021,344.0,True
+Colombia,Americas,53057212,1141748.0,True
+Finland,Europe,5650325,338455.0,True
+Bulgaria,Europe,6437360,110879.0,True
+Togo,Africa,8095498,56785.0,True
+Chile,Americas,20206953,756102.0,True
+Dominica,Americas,67408,751.0,True
+Ireland,Europe,5458600,70273.0,True
+Botswana,Africa,2359609,582000.0,True
+Kosovo,Europe,1585566,10908.0,False
+United States,Americas,340110988,9525067.0,True
+Uzbekistan,Asia,37859698,447400.0,True
+Brazil,Americas,213421037,8515767.0,True
+Rwanda,Africa,14104969,26338.0,True
+Liechtenstein,Europe,40900,160.0,True
+Bhutan,Asia,784043,38394.0,True
+Montenegro,Europe,623327,13812.0,True
+Niger,Africa,26312034,1267000.0,True
+Albania,Europe,2363314,28748.0,True
+Morocco,Africa,36828330,446550.0,True
+Venezuela,Americas,28517000,916445.0,True
+Republic of the Congo,Africa,6142180,342000.0,True
+Burundi,Africa,12332788,27834.0,True
+Jersey,Europe,103267,116.0,False
+North Macedonia,Europe,1822612,25713.0,True
+Kyrgyzstan,Asia,7281800,199951.0,True
+Romania,Europe,19036031,238391.0,True
+Guam,Oceania,153836,549.0,False
+Åland Islands,Europe,30654,1580.0,False
+Equatorial Guinea,Africa,1668768,28051.0,True
+South Georgia,Antarctic,0,3903.0,False
+French Guiana,Americas,292354,83534.0,False
+Germany,Europe,83491249,357114.0,True
+Denmark,Europe,6011488,43094.0,True
+Iceland,Europe,391810,103000.0,True
+Somalia,Africa,19655000,637657.0,True
+Micronesia,Oceania,105564,702.0,True
+Laos,Asia,7647000,236800.0,True
+Sint Maarten,Americas,41349,34.0,False
+Liberia,Africa,5248621,111369.0,True
+Chad,Africa,19340757,1284000.0,True
+Australia,Oceania,27536874,7692024.0,True
+Burkina Faso,Africa,24070553,272967.0,True
+Malta,Europe,574250,316.0,True
+Northern Mariana Islands,Oceania,47329,464.0,False
+Uganda,Africa,45905417,241550.0,True
+Spain,Europe,49315949,505992.0,True
+Sudan,Africa,51662000,1886068.0,True
+Taiwan,Asia,23317031,36197.0,False
+Afghanistan,Asia,43844000,652230.0,True
+Svalbard and Jan Mayen,Europe,2530,61399.0,False
+Fiji,Oceania,900869,18272.0,True
+Guinea-Bissau,Africa,1781308,36125.0,False
+Andorra,Europe,88406,468.0,True
+Algeria,Africa,47400000,2381741.0,True
+Portugal,Europe,10749635,92090.0,True
+Mozambique,Africa,34090466,801590.0,True
+Lesotho,Africa,2116427,30355.0,True
+North Korea,Asia,25950000,120538.0,True
+Singapore,Asia,6110200,710.0,True
+Monaco,Europe,38423,2.02,True
+Lebanon,Asia,5490000,10452.0,True
+Serbia,Europe,6567783,77589.0,True
+Estonia,Europe,1369995,45227.0,True
+Barbados,Americas,267800,430.0,True
+Mauritius,Africa,1243741,2040.0,True
+"Saint Helena, Ascension and Tristan da Cunha",Africa,5651,394.0,False
+Belgium,Europe,11825551,30528.0,True
+Libya,Africa,7459000,1759540.0,True
+Nicaragua,Americas,6803886,130373.0,True
+Kuwait,Asia,4881254,17818.0,True
+New Caledonia,Oceania,264596,18575.0,False
+France,Europe,66351959,543908.0,True
+Vietnam,Asia,101343800,331212.0,True
+Saint Vincent and the Grenadines,Americas,110872,389.0,True
+Bahrain,Asia,1594654,765.0,True
+Curaçao,Americas,156115,444.0,False
+Bangladesh,Asia,169828911,147570.0,True
+Ivory Coast,Africa,31719275,322463.0,True
+DR Congo,Africa,112832000,2344858.0,True
+Sri Lanka,Asia,21763170,65610.0,True
+United States Minor Outlying Islands,Americas,0,34.2,False
+Caribbean Netherlands,Americas,31980,328.0,False
+Nepal,Asia,29911840,147181.0,True
+Bolivia,Americas,11365333,1098581.0,True
+Namibia,Africa,3022401,825615.0,True
+Haiti,Americas,11867032,27750.0,True
+Suriname,Americas,616500,163820.0,True
+Saint Martin,Americas,31496,53.0,False
+Canada,Americas,41651653,9984670.0,True
+Honduras,Americas,9892632,112492.0,True
+Vatican City,Europe,882,0.49,False
+United Arab Emirates,Asia,11294243,83600.0,True
+Guinea,Africa,14363931,245857.0,True
+Cameroon,Africa,29442327,475442.0,True
+Cyprus,Europe,1442614,9251.0,True
+Trinidad and Tobago,Americas,1367764,5130.0,True
+Sweden,Europe,10605098,450295.0,True
+Madagascar,Africa,31727042,587041.0,True
+Mayotte,Africa,320901,374.0,False
+Cayman Islands,Americas,84738,264.0,False
+Malaysia,Asia,34231700,330803.0,True
+Benin,Africa,13224860,112622.0,True
+Greenland,Americas,56542,2166086.0,False
+Switzerland,Europe,9082848,41284.0,True
+Georgia,Asia,4000921,69700.0,True
+Ecuador,Americas,18103660,276841.0,True
+Cape Verde,Africa,491233,4033.0,True
+Luxembourg,Europe,681973,2586.0,True
+Saint Lucia,Americas,184100,616.0,True
+United States Virgin Islands,Americas,87146,347.0,False
+Japan,Asia,123210000,377930.0,True
+Jamaica,Americas,2825544,10991.0,True
+Ethiopia,Africa,111652998,1104300.0,True
+Pakistan,Asia,241499431,796095.0,True
+Montserrat,Americas,4386,102.0,False
+Lithuania,Europe,2894886,65300.0,True
+Greece,Europe,10400720,131990.0,True
